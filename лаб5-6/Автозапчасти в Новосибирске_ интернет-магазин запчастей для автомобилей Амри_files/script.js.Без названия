@@ -1,0 +1,27 @@
+function checkUseFundsAccount(el, dcm_id, pmk_id) {
+
+    var url = "/shop/payments-online.html?";
+    url += 'func=getPaymentLinkForDcmId' + '&dcm_id=' + dcm_id + '&pmk_id=' + pmk_id + '&use_curl_ord=1'
+
+    var payHref = document.getElementById('order-success-pay');
+
+    if (el.checked) {
+        url += '&use_funds_account=1'
+    } else {
+        url += '&use_funds_account=0'
+    }
+
+    payHref.style.display = "none";
+
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            payHref.href = this.responseText
+            payHref.style.display = "";
+
+
+        }
+    };
+    xhttp.open("GET", url, true);
+    xhttp.send();
+}

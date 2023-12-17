@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702820145414,818,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-76,text,false,,793,505,100,100,https://www.amry.ru/about/company/,818,0,748
+1702820145154,1078,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-50,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1073,0,996
+1702820145652,580,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-100,text,false,,793,505,100,100,https://www.amry.ru/about/company/,579,0,509
+1702820145503,729,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-85,text,false,,793,505,100,100,https://www.amry.ru/about/company/,727,0,657
+1702820145294,938,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-64,text,false,,793,505,100,100,https://www.amry.ru/about/company/,938,0,868
+1702820144963,1269,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-31,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1267,0,1196
+1702820144765,1467,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-11,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1462,0,1387
+1702820145393,839,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-74,text,false,,793,505,100,100,https://www.amry.ru/about/company/,837,0,767
+1702820145554,678,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-90,text,false,,793,505,100,100,https://www.amry.ru/about/company/,677,0,607
+1702820145234,998,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-58,text,false,,793,505,100,100,https://www.amry.ru/about/company/,993,0,918
+1702820144744,1488,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-9,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1487,0,1417
+1702820144774,1458,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-12,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1456,0,1386
+1702820144803,1429,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-15,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1428,0,1359
+1702820145323,909,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-67,text,false,,793,505,100,100,https://www.amry.ru/about/company/,908,0,838
+1702820144933,1299,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-28,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1294,0,1219
+1702820145454,778,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-80,text,false,,793,505,100,100,https://www.amry.ru/about/company/,776,0,706
+1702820144884,1348,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-23,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1346,0,1276
+1702820145566,667,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-91,text,false,,793,505,100,100,https://www.amry.ru/about/company/,666,0,597
+1702820145494,740,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-84,text,false,,793,505,100,100,https://www.amry.ru/about/company/,740,0,670
+1702820144863,1369,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-21,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1367,0,1298
+1702820145113,1119,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-46,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1117,0,1047
+1702820144834,1398,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-18,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1397,0,1327
+1702820145444,788,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-79,text,false,,793,505,100,100,https://www.amry.ru/about/company/,787,0,717
+1702820145202,1030,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-55,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1025,0,948
+1702820144993,1239,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-34,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1239,0,1169
+1702820145083,1150,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-43,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1150,0,1081
+1702820145535,697,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-88,text,false,,793,505,100,100,https://www.amry.ru/about/company/,695,0,626
+1702820145245,987,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-59,text,false,,793,505,100,100,https://www.amry.ru/about/company/,984,0,914
+1702820145343,889,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-69,text,false,,793,505,100,100,https://www.amry.ru/about/company/,884,0,807
+1702820144735,1499,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-2,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1499,0,1429
+1702820144923,1312,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-27,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1312,0,1242
+1702820144735,1500,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-4,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1500,0,1430
+1702820145643,593,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-99,text,false,,793,505,100,100,https://www.amry.ru/about/company/,593,0,523
+1702820144944,1292,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-29,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1292,0,1223
+1702820144974,1263,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-32,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1263,0,1193
+1702820145063,1174,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-41,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1174,0,1104
+1702820145484,753,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-83,text,false,,793,505,100,100,https://www.amry.ru/about/company/,753,0,684
+1702820144735,1503,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-1,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1503,0,1433
+1702820145255,984,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-60,text,false,,793,505,100,100,https://www.amry.ru/about/company/,984,0,914
+1702820145334,906,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-68,text,false,,793,505,100,100,https://www.amry.ru/about/company/,906,0,836
+1702820145043,1197,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-39,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1197,0,1127
+1702820145633,608,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-98,text,false,,793,505,100,100,https://www.amry.ru/about/company/,608,0,538
+1702820145583,658,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-93,text,false,,793,505,100,100,https://www.amry.ru/about/company/,658,0,589
+1702820145352,890,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-70,text,false,,793,505,100,100,https://www.amry.ru/about/company/,890,0,820
+1702820145003,1239,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-35,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1239,0,1169
+1702820145223,1019,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-57,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1019,0,949
+1702820144913,1331,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-26,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1331,0,1261
+1702820145576,668,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-92,text,false,,793,505,100,100,https://www.amry.ru/about/company/,668,0,598
+1702820145102,1142,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-45,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1142,0,1072
+1702820144854,1390,https://www.amry.ru/about/company/,503,Service Temporarily Unavailable,Thread Group 1-20,text,false,,793,505,100,100,https://www.amry.ru/about/company/,1390,0,1321
+1702820145282,1595,https://www.amry.ru/about/company/,200,OK,Thread Group 1-63,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1380,0,832
+1702820144903,2023,https://www.amry.ru/about/company/,200,OK,Thread Group 1-25,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1805,0,1211
+1702820145362,1568,https://www.amry.ru/about/company/,200,OK,Thread Group 1-71,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1348,0,751
+1702820145164,1771,https://www.amry.ru/about/company/,200,OK,Thread Group 1-51,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1547,0,949
+1702820144754,2190,https://www.amry.ru/about/company/,200,OK,Thread Group 1-10,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1963,0,1360
+1702820145304,1646,https://www.amry.ru/about/company/,200,OK,Thread Group 1-65,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1427,0,810
+1702820145514,1501,https://www.amry.ru/about/company/,200,OK,Thread Group 1-86,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1271,0,600
+1702820145034,2403,https://www.amry.ru/about/company/,200,OK,Thread Group 1-38,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2191,0,1079
+1702820145174,2341,https://www.amry.ru/about/company/,200,OK,Thread Group 1-52,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2125,0,940
+1702820145403,2159,https://www.amry.ru/about/company/,200,OK,Thread Group 1-75,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1943,0,711
+1702820144892,2706,https://www.amry.ru/about/company/,200,OK,Thread Group 1-24,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2490,0,1221
+1702820144736,2867,https://www.amry.ru/about/company/,200,OK,Thread Group 1-8,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2649,0,1378
+1702820144735,2900,https://www.amry.ru/about/company/,200,OK,Thread Group 1-5,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2683,0,1377
+1702820145123,2518,https://www.amry.ru/about/company/,200,OK,Thread Group 1-47,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2300,0,1009
+1702820145132,2514,https://www.amry.ru/about/company/,200,OK,Thread Group 1-48,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2293,0,999
+1702820145622,2139,https://www.amry.ru/about/company/,200,OK,Thread Group 1-97,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,1921,0,509
+1702820145013,3149,https://www.amry.ru/about/company/,200,OK,Thread Group 1-36,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2937,0,1120
+1702820144954,3218,https://www.amry.ru/about/company/,200,OK,Thread Group 1-30,text,true,,141469,505,100,100,https://www.amry.ru/about/company/,3005,0,1180
+1702820148112,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-91,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820148110,73,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-69,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,73,0,0
+1702820148110,73,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-43,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,73,0,0
+1702820148112,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-32,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820148110,73,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-2,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,73,0,0
+1702820148112,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-99,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820148112,72,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-58,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,72,0,0
+1702820148112,72,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-50,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,72,0,0
+1702820148110,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-88,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148110,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-67,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148110,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-15,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148112,72,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-41,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,72,0,0
+1702820148110,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-27,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148112,72,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-83,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,72,0,0
+1702820148110,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-100,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148114,70,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-60,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,70,0,0
+1702820148114,70,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-1,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,70,0,0
+1702820145143,3041,https://www.amry.ru/about/company/,200,OK,Thread Group 1-49,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2826,0,990
+1702820148115,70,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-68,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,70,0,0
+1702820148115,70,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-39,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,70,0,0
+1702820148116,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-98,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820148116,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-93,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820148117,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-70,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820148117,73,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-35,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,73,0,0
+1702820148119,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-26,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148119,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-20,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148119,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-45,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820148119,74,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-92,text,false,,793,504,100,100,https://www.amry.ru/to_suppliers/,74,0,0
+1702820145023,3190,https://www.amry.ru/about/company/,200,OK,Thread Group 1-37,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2975,0,1112
+1702820145183,3063,https://www.amry.ru/about/company/,200,OK,Thread Group 1-53,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2848,0,950
+1702820145053,3210,https://www.amry.ru/about/company/,200,OK,Thread Group 1-40,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2994,0,1086
+1702820144842,3426,https://www.amry.ru/about/company/,200,OK,Thread Group 1-19,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3207,0,1293
+1702820145263,3046,https://www.amry.ru/about/company/,200,OK,Thread Group 1-61,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2830,0,873
+1702820145374,2947,https://www.amry.ru/about/company/,200,OK,Thread Group 1-72,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2730,0,759
+1702820145213,3114,https://www.amry.ru/about/company/,200,OK,Thread Group 1-56,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2898,0,920
+1702820145462,2900,https://www.amry.ru/about/company/,200,OK,Thread Group 1-81,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,2684,0,677
+1702820144814,4049,https://www.amry.ru/about/company/,200,OK,Thread Group 1-16,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3830,0,1327
+1702820145273,3606,https://www.amry.ru/about/company/,200,OK,Thread Group 1-62,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3388,0,862
+1702820145423,3470,https://www.amry.ru/about/company/,200,OK,Thread Group 1-77,text,true,,141470,505,100,100,https://www.amry.ru/about/company/,3248,0,719
+1702820145094,3849,https://www.amry.ru/about/company/,200,OK,Thread Group 1-44,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3633,0,1048
+1702820144736,4216,https://www.amry.ru/about/company/,200,OK,Thread Group 1-7,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3995,0,1406
+1702820144736,4221,https://www.amry.ru/about/company/,200,OK,Thread Group 1-6,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4001,0,1405
+1702820144735,4231,https://www.amry.ru/about/company/,200,OK,Thread Group 1-3,text,true,,141469,505,100,100,https://www.amry.ru/about/company/,4007,0,1406
+1702820144783,4196,https://www.amry.ru/about/company/,200,OK,Thread Group 1-13,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3979,0,1358
+1702820145544,3457,https://www.amry.ru/about/company/,200,OK,Thread Group 1-89,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3241,0,599
+1702820144795,4246,https://www.amry.ru/about/company/,200,OK,Thread Group 1-14,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4023,0,1347
+1702820144874,4189,https://www.amry.ru/about/company/,200,OK,Thread Group 1-22,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3973,0,1269
+1702820144823,4253,https://www.amry.ru/about/company/,200,OK,Thread Group 1-17,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4037,0,1320
+1702820145313,3807,https://www.amry.ru/about/company/,200,OK,Thread Group 1-66,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3570,0,830
+1702820144984,4508,https://www.amry.ru/about/company/,200,OK,Thread Group 1-33,text,true,,141469,505,100,100,https://www.amry.ru/about/company/,4290,0,1161
+1702820145613,3997,https://www.amry.ru/about/company/,200,OK,Thread Group 1-96,text,true,,141469,505,100,100,https://www.amry.ru/about/company/,3783,0,532
+1702820145603,4030,https://www.amry.ru/about/company/,200,OK,Thread Group 1-95,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3809,0,543
+1702820145192,4445,https://www.amry.ru/about/company/,200,OK,Thread Group 1-54,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4226,0,952
+1702820145474,4197,https://www.amry.ru/about/company/,200,OK,Thread Group 1-82,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3981,0,672
+1702820145524,4170,https://www.amry.ru/about/company/,200,OK,Thread Group 1-87,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3953,0,621
+1702820145433,4265,https://www.amry.ru/about/company/,200,OK,Thread Group 1-78,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4046,0,715
+1702820145593,4205,https://www.amry.ru/about/company/,200,OK,Thread Group 1-94,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,3988,0,556
+1702820145382,4435,https://www.amry.ru/about/company/,200,OK,Thread Group 1-73,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4218,0,767
+1702820145073,5110,https://www.amry.ru/about/company/,200,OK,Thread Group 1-42,text,true,,141457,505,100,100,https://www.amry.ru/about/company/,4897,0,1077
+1702820150414,72,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-2,text,false,,793,498,100,100,https://www.amry.ru/stocks/,72,0,0
+1702820150414,76,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-69,text,false,,793,498,100,100,https://www.amry.ru/stocks/,76,0,0
+1702820150414,76,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-91,text,false,,793,498,100,100,https://www.amry.ru/stocks/,76,0,0
+1702820150414,76,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-99,text,false,,793,498,100,100,https://www.amry.ru/stocks/,76,0,0
+1702820150414,77,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-58,text,false,,793,498,100,100,https://www.amry.ru/stocks/,77,0,0
+1702820150414,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-43,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150414,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-32,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150415,77,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-60,text,false,,793,498,100,100,https://www.amry.ru/stocks/,77,0,0
+1702820150415,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-1,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150415,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-27,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150415,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-100,text,false,,793,498,100,100,https://www.amry.ru/stocks/,77,0,0
+1702820150415,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-15,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150415,79,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-67,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150415,79,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-41,text,false,,793,498,100,100,https://www.amry.ru/stocks/,79,0,0
+1702820150415,79,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-50,text,false,,793,498,100,100,https://www.amry.ru/stocks/,79,0,0
+1702820150415,79,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-88,text,false,,793,498,100,100,https://www.amry.ru/stocks/,79,0,0
+1702820150415,79,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-83,text,false,,793,498,100,100,https://www.amry.ru/stocks/,79,0,0
+1702820150416,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-39,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150416,78,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-68,text,false,,793,498,100,100,https://www.amry.ru/stocks/,78,0,0
+1702820150418,77,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-93,text,false,,793,498,100,100,https://www.amry.ru/stocks/,77,0,0
+1702820150418,77,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-98,text,false,,793,498,100,100,https://www.amry.ru/stocks/,77,0,0
+1702820150419,77,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-70,text,false,,793,498,100,100,https://www.amry.ru/stocks/,76,0,0
+1702820150421,75,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-35,text,false,,793,498,100,100,https://www.amry.ru/stocks/,75,0,0
+1702820150424,72,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-26,text,false,,793,498,100,100,https://www.amry.ru/stocks/,72,0,0
+1702820150424,72,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-20,text,false,,793,498,100,100,https://www.amry.ru/stocks/,72,0,0
+1702820150424,73,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-92,text,false,,793,498,100,100,https://www.amry.ru/stocks/,73,0,0
+1702820150424,73,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-45,text,false,,793,498,100,100,https://www.amry.ru/stocks/,73,0,0
+1702820150737,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-16,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150752,110,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-62,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,110,0,0
+1702820150766,102,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-77,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,102,0,0
+1702820150818,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-44,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150826,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-7,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150830,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-6,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150840,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-3,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150852,72,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-13,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,72,0,0
+1702820150874,70,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-89,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,70,0,0
+1702820150914,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-14,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150936,72,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-22,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,72,0,0
+1702820150949,71,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-17,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,71,0,0
+1702820150995,83,https://www.amry.ru/to_suppliers/,503,Service Temporarily Unavailable,Thread Group 1-66,text,false,,793,556,100,100,https://www.amry.ru/to_suppliers/,83,0,0
+1702820148110,3212,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-64,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,2999,0,0
+1702820148110,3229,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-23,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3016,0,0
+1702820148110,3257,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-9,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3041,0,0
+1702820148110,3367,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-28,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3148,0,0
+1702820148110,3536,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-79,text,true,,143019,504,100,100,https://www.amry.ru/to_suppliers/,3320,0,0
+1702820148111,3557,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-76,text,true,,143019,504,100,100,https://www.amry.ru/to_suppliers/,3340,0,0
+1702820148111,3581,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-21,text,true,,143019,504,100,100,https://www.amry.ru/to_suppliers/,3364,0,0
+1702820148111,3593,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-11,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3376,0,0
+1702820148111,3633,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-55,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3416,0,0
+1702820148110,3702,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-85,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3465,0,0
+1702820148110,3709,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-59,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3490,0,0
+1702820148110,3973,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-74,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3754,0,0
+1702820148111,4072,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-18,text,true,,143019,504,100,100,https://www.amry.ru/to_suppliers/,3855,0,0
+1702820148111,4113,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-34,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3893,0,0
+1702820148110,4182,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-31,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3962,0,0
+1702820148110,4202,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-90,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,3986,0,0
+1702820148111,4344,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-80,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,4126,0,0
+1702820148110,4599,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-84,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,4382,0,0
+1702820149516,3304,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-47,text,true,,142943,556,100,100,https://www.amry.ru/to_suppliers/,3087,0,0
+1702820149390,3634,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-52,text,true,,142950,556,100,100,https://www.amry.ru/to_suppliers/,3421,0,0
+1702820148800,4236,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-25,text,true,,142961,556,100,100,https://www.amry.ru/to_suppliers/,4020,0,0
+1702820149477,3692,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-8,text,true,,142997,556,100,100,https://www.amry.ru/to_suppliers/,3474,0,0
+1702820148111,5219,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-12,text,true,,143019,504,100,100,https://www.amry.ru/to_suppliers/,5003,0,0
+1702820149436,3969,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-75,text,true,,142943,556,100,100,https://www.amry.ru/to_suppliers/,3750,0,0
+1702820148111,5332,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-46,text,true,,143007,504,100,100,https://www.amry.ru/to_suppliers/,5118,0,0
+1702820153408,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-69,text,false,,793,497,100,100,https://www.amry.ru/accum/,70,0,0
+1702820145343,1108,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-69,,false,,3172,2004,100,100,null,1103,7028,807
+1702820153409,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-58,text,false,,793,497,100,100,https://www.amry.ru/accum/,70,0,0
+1702820145233,1217,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-58,,false,,3172,2004,100,100,null,1212,7030,918
+1702820153410,71,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-43,text,false,,793,497,98,98,https://www.amry.ru/accum/,71,0,0
+1702820153410,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-32,text,false,,793,497,98,98,https://www.amry.ru/accum/,70,0,0
+1702820153410,71,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-60,text,false,,793,497,98,98,https://www.amry.ru/accum/,71,0,0
+1702820145083,1372,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-43,,false,,3172,2004,98,98,null,1372,7027,1081
+1702820144973,1482,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-32,,false,,3172,2004,98,98,null,1482,7027,1193
+1702820145253,1202,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-60,,false,,3172,2004,98,98,null,1202,7027,914
+1702820153411,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-27,text,false,,793,497,98,98,https://www.amry.ru/accum/,70,0,0
+1702820153411,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-100,text,false,,793,497,98,98,https://www.amry.ru/accum/,70,0,0
+1702820144923,1534,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-27,,false,,3172,2004,98,98,null,1534,7025,1242
+1702820145652,802,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-100,,false,,3172,2004,98,98,null,800,7028,509
+1702820153411,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-41,text,false,,793,497,98,98,https://www.amry.ru/accum/,70,0,0
+1702820145063,1395,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-41,,false,,3172,2004,98,98,null,1395,7024,1104
+1702820153411,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-15,text,false,,793,497,98,98,https://www.amry.ru/accum/,70,0,0
+1702820144803,1651,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-15,,false,,3172,2004,98,98,null,1650,7028,1359
+1702820153411,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-1,text,false,,793,497,94,94,https://www.amry.ru/accum/,70,0,0
+1702820144672,1721,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-1,,false,,3172,2004,94,94,null,1721,7088,1433
+1702820153411,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-67,text,false,,793,497,91,91,https://www.amry.ru/accum/,70,0,0
+1702820145322,1132,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-67,,false,,3172,2004,91,91,null,1130,7028,838
+1702820153412,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-83,text,false,,793,497,89,89,https://www.amry.ru/accum/,73,0,0
+1702820145484,977,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-83,,false,,3172,2004,89,89,null,977,7025,684
+1702820153412,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-68,text,false,,793,497,88,88,https://www.amry.ru/accum/,73,0,0
+1702820145333,1127,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-68,,false,,3172,2004,88,88,null,1127,7026,836
+1702820153412,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-93,text,false,,793,497,88,88,https://www.amry.ru/accum/,73,0,0
+1702820153412,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-88,text,false,,793,497,88,88,https://www.amry.ru/accum/,73,0,0
+1702820145582,879,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-93,,false,,3172,2004,88,88,null,879,7025,589
+1702820145534,923,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-88,,false,,3172,2004,88,88,null,921,7029,626
+1702820153412,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-50,text,false,,793,497,88,88,https://www.amry.ru/accum/,73,0,0
+1702820153412,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-39,text,false,,793,497,88,88,https://www.amry.ru/accum/,73,0,0
+1702820145153,1302,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-50,,false,,3172,2004,88,88,null,1297,7031,996
+1702820145042,1418,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-39,,false,,3172,2004,88,88,null,1418,7026,1127
+1702820153413,72,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-98,text,false,,793,497,87,87,https://www.amry.ru/accum/,72,0,0
+1702820145633,828,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-98,,false,,3172,2004,87,87,null,828,7025,538
+1702820153413,73,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-70,text,false,,793,497,85,85,https://www.amry.ru/accum/,73,0,0
+1702820145352,1111,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-70,,false,,3172,2004,85,85,null,1110,7024,820
+1702820153414,72,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-20,text,false,,793,497,84,84,https://www.amry.ru/accum/,72,0,0
+1702820153414,72,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-35,text,false,,793,497,83,83,https://www.amry.ru/accum/,72,0,0
+1702820144853,1608,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-20,,false,,3172,2004,84,84,null,1608,7026,1321
+1702820145003,1459,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-35,,false,,3172,2004,83,83,null,1459,7025,1169
+1702820153415,71,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-92,text,false,,793,497,81,81,https://www.amry.ru/accum/,71,0,0
+1702820153414,72,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-26,text,false,,793,497,81,81,https://www.amry.ru/accum/,72,0,0
+1702820153415,71,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-45,text,false,,793,497,81,81,https://www.amry.ru/accum/,71,0,0
+1702820145574,886,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-92,,false,,3172,2004,81,81,null,886,7027,598
+1702820145102,1360,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-45,,false,,3172,2004,81,81,null,1360,7025,1072
+1702820144913,1549,Test,,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-26,,false,,3172,2004,81,81,null,1549,7025,1261
+1702820148890,4616,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-86,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4402,0,0
+1702820149521,4023,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-48,text,true,,142961,556,76,76,https://www.amry.ru/to_suppliers/,3807,0,0
+1702820149635,3970,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-97,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,3754,0,0
+1702820153597,70,https://www.amry.ru/stocks/,503,Service Temporarily Unavailable,Thread Group 1-9,text,false,,793,550,76,76,https://www.amry.ru/stocks/,70,0,0
+1702820148805,4986,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-71,text,true,,142974,556,76,76,https://www.amry.ru/to_suppliers/,4770,0,0
+1702820148117,5722,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-57,text,true,,143007,504,76,76,https://www.amry.ru/to_suppliers/,5504,0,0
+1702820148809,5175,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-51,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4956,0,0
+1702820149473,4515,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-24,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4293,0,0
+1702820148825,5224,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-65,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,5008,0,0
+1702820148111,5969,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-29,text,true,,143007,504,76,76,https://www.amry.ru/to_suppliers/,5756,0,0
+1702820149313,4776,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-38,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4563,0,0
+1702820150045,4085,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-30,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,3869,0,0
+1702820148818,5448,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-10,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,5228,0,0
+1702820148111,6185,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-4,text,true,,143007,504,76,76,https://www.amry.ru/to_suppliers/,5969,0,0
+1702820150059,4241,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-49,text,true,,142980,556,76,76,https://www.amry.ru/to_suppliers/,4025,0,0
+1702820150037,4389,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-36,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4172,0,0
+1702820149512,5014,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-5,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4793,0,0
+1702820151572,2996,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-78,text,true,,142974,556,76,76,https://www.amry.ru/to_suppliers/,2779,0,0
+1702820150086,4497,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-37,text,true,,142949,556,76,76,https://www.amry.ru/to_suppliers/,4267,0,0
+1702820148756,5837,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-63,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,5618,0,0
+1702820151545,3053,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-82,text,true,,142992,556,76,76,https://www.amry.ru/to_suppliers/,2836,0,0
+1702820151511,3145,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-54,text,true,,142960,556,76,76,https://www.amry.ru/to_suppliers/,2933,0,0
+1702820151484,3232,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-96,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,3016,0,0
+1702820150120,4649,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-53,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4433,0,0
+1702820150138,4762,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-40,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4545,0,0
+1702820150183,4867,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-61,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4650,0,0
+1702820150200,4858,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-56,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4640,0,0
+1702820151507,3563,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-95,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,3347,0,0
+1702820151671,3524,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-94,text,true,,142950,556,76,76,https://www.amry.ru/to_suppliers/,3308,0,0
+1702820151568,3656,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-87,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,3440,0,0
+1702820150235,5167,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-81,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4951,0,0
+1702820150141,5324,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-19,text,true,,142961,556,76,76,https://www.amry.ru/to_suppliers/,5107,0,0
+1702820150194,5366,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-72,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,5138,0,0
+1702820151690,3902,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-73,text,true,,142950,556,76,76,https://www.amry.ru/to_suppliers/,3650,0,0
+1702820151366,4388,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-33,text,true,,142943,556,76,76,https://www.amry.ru/to_suppliers/,4176,0,0
+1702820152058,3884,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-42,text,true,,142950,556,76,76,https://www.amry.ru/to_suppliers/,3667,0,0
+1702820153310,2698,https://www.amry.ru/stocks/,200,OK,Thread Group 1-66,text,true,,156949,550,76,76,https://www.amry.ru/stocks/,2421,0,0
+1702820153175,2937,https://www.amry.ru/stocks/,200,OK,Thread Group 1-89,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,2659,0,0
+1702820153217,2988,https://www.amry.ru/stocks/,200,OK,Thread Group 1-14,text,true,,156935,550,76,76,https://www.amry.ru/stocks/,2712,0,0
+1702820153094,3118,https://www.amry.ru/stocks/,200,OK,Thread Group 1-62,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2835,0,0
+1702820153100,3518,https://www.amry.ru/stocks/,200,OK,Thread Group 1-77,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3240,0,0
+1702820153922,2716,https://www.amry.ru/stocks/,200,OK,Thread Group 1-21,text,true,,156926,550,76,76,https://www.amry.ru/stocks/,2439,0,0
+1702820153142,3506,https://www.amry.ru/stocks/,200,OK,Thread Group 1-3,text,true,,156935,550,76,76,https://www.amry.ru/stocks/,3233,0,0
+1702820153128,3620,https://www.amry.ru/stocks/,200,OK,Thread Group 1-7,text,true,,156942,550,76,76,https://www.amry.ru/stocks/,3340,0,0
+1702820153898,2927,https://www.amry.ru/stocks/,200,OK,Thread Group 1-76,text,true,,156949,550,76,76,https://www.amry.ru/stocks/,2650,0,0
+1702820154685,2203,https://www.amry.ru/stocks/,200,OK,Thread Group 1-80,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,1917,0,0
+1702820154523,2443,https://www.amry.ru/stocks/,200,OK,Thread Group 1-31,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,2166,0,0
+1702820153155,3858,https://www.amry.ru/stocks/,200,OK,Thread Group 1-13,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,3581,0,0
+1702820154043,2980,https://www.amry.ru/stocks/,200,OK,Thread Group 1-85,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,2698,0,0
+1702820153570,3520,https://www.amry.ru/stocks/,200,OK,Thread Group 1-23,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3237,0,0
+1702820153121,3978,https://www.amry.ru/stocks/,200,OK,Thread Group 1-44,text,true,,156950,550,76,76,https://www.amry.ru/stocks/,3692,0,0
+1702820153252,3862,https://www.amry.ru/stocks/,200,OK,Thread Group 1-17,text,true,,156935,550,76,76,https://www.amry.ru/stocks/,3585,0,0
+1702820153934,3254,https://www.amry.ru/stocks/,200,OK,Thread Group 1-11,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2975,0,0
+1702820153132,4063,https://www.amry.ru/stocks/,200,OK,Thread Group 1-6,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3779,0,0
+1702820154939,2374,https://www.amry.ru/stocks/,200,OK,Thread Group 1-84,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2095,0,0
+1702820153240,4098,https://www.amry.ru/stocks/,200,OK,Thread Group 1-22,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3819,0,0
+1702820154315,3039,https://www.amry.ru/stocks/,200,OK,Thread Group 1-74,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2760,0,0
+1702820153040,4361,https://www.amry.ru/stocks/,200,OK,Thread Group 1-16,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,4082,0,0
+1702820153553,3873,https://www.amry.ru/stocks/,200,OK,Thread Group 1-64,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3593,0,0
+1702820153709,3723,https://www.amry.ru/stocks/,200,OK,Thread Group 1-28,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,3446,0,0
+1702820154453,3001,https://www.amry.ru/stocks/,200,OK,Thread Group 1-34,text,true,,156949,550,76,76,https://www.amry.ru/stocks/,2723,0,0
+1702820154049,3462,https://www.amry.ru/stocks/,200,OK,Thread Group 1-59,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3184,0,0
+1702820153976,3556,https://www.amry.ru/stocks/,200,OK,Thread Group 1-55,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3277,0,0
+1702820153877,3869,https://www.amry.ru/stocks/,200,OK,Thread Group 1-79,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,3592,0,0
+1702820154543,3239,https://www.amry.ru/stocks/,200,OK,Thread Group 1-90,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,2961,0,0
+1702820154413,3692,https://www.amry.ru/stocks/,200,OK,Thread Group 1-18,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,3417,0,0
+1702820155051,3105,https://www.amry.ru/stocks/,200,OK,Thread Group 1-47,text,true,,156935,550,76,76,https://www.amry.ru/stocks/,2827,0,0
+1702820155267,2899,https://www.amry.ru/stocks/,200,OK,Thread Group 1-25,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2622,0,0
+1702820155255,3009,https://www.amry.ru/stocks/,200,OK,Thread Group 1-52,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2731,0,0
+1702820156319,2121,https://www.amry.ru/stocks/,200,OK,Thread Group 1-38,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,1844,0,0
+1702820155561,3042,https://www.amry.ru/stocks/,200,OK,Thread Group 1-12,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2764,0,0
+1702820155400,3252,https://www.amry.ru/stocks/,200,OK,Thread Group 1-8,text,true,,156919,550,76,76,https://www.amry.ru/stocks/,2972,0,0
+1702820155636,3090,https://www.amry.ru/stocks/,200,OK,Thread Group 1-75,text,true,,156929,550,76,76,https://www.amry.ru/stocks/,2810,0,0
+1702820153408,5361,https://www.amry.ru/accum/,200,OK,Thread Group 1-99,text,true,,636236,497,76,76,https://www.amry.ru/accum/,4650,0,0
+1702820145643,6101,Test,,"Number of samples in transaction : 4, number of failing samples : 3",Thread Group 1-99,,false,,638615,2004,76,76,null,5390,7026,523
+1702820155736,3124,https://www.amry.ru/stocks/,200,OK,Thread Group 1-86,text,true,,156919,550,75,75,https://www.amry.ru/stocks/,2843,0,0
+1702820155836,3098,https://www.amry.ru/stocks/,200,OK,Thread Group 1-97,text,true,,156919,550,75,75,https://www.amry.ru/stocks/,2816,0,0
+1702820153408,5526,https://www.amry.ru/accum/,200,OK,Thread Group 1-91,text,true,,636236,497,75,75,https://www.amry.ru/accum/,4819,0,0
+1702820145564,6340,Test,,"Number of samples in transaction : 4, number of failing samples : 3",Thread Group 1-91,,false,,638615,2004,75,75,null,5632,7031,597
+1702820155674,3276,https://www.amry.ru/stocks/,200,OK,Thread Group 1-46,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2999,0,0
+1702820156527,2517,https://www.amry.ru/stocks/,200,OK,Thread Group 1-4,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2234,0,0
+1702820155774,3282,https://www.amry.ru/stocks/,200,OK,Thread Group 1-48,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,3003,0,0
+1702820156021,3046,https://www.amry.ru/stocks/,200,OK,Thread Group 1-71,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2767,0,0
+1702820156218,2954,https://www.amry.ru/stocks/,200,OK,Thread Group 1-24,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2677,0,0
+1702820156496,2684,https://www.amry.ru/stocks/,200,OK,Thread Group 1-10,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2400,0,0
+1702820156311,2874,https://www.amry.ru/stocks/,200,OK,Thread Group 1-29,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2595,0,0
+1702820156070,3129,https://www.amry.ru/stocks/,200,OK,Thread Group 1-57,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2850,0,0
+1702820156214,3008,https://www.amry.ru/stocks/,200,OK,Thread Group 1-51,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2731,0,0
+1702820156362,2924,https://www.amry.ru/stocks/,200,OK,Thread Group 1-30,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2646,0,0
+1702820156814,2501,https://www.amry.ru/stocks/,200,OK,Thread Group 1-37,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2223,0,0
+1702820157132,2211,https://www.amry.ru/stocks/,200,OK,Thread Group 1-40,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,1932,0,0
+1702820156888,2486,https://www.amry.ru/stocks/,200,OK,Thread Group 1-54,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2209,0,0
+1702820156657,2722,https://www.amry.ru/stocks/,200,OK,Thread Group 1-36,text,true,,156919,550,74,74,https://www.amry.ru/stocks/,2442,0,0
+1702820153406,6012,https://www.amry.ru/accum/,200,OK,Thread Group 1-2,text,true,,636241,497,74,74,https://www.amry.ru/accum/,5296,0,0
+1702820144678,7656,Test,,"Number of samples in transaction : 4, number of failing samples : 3",Thread Group 1-2,,false,,638620,2004,74,74,null,6940,7085,1429
+1702820156532,2906,https://www.amry.ru/stocks/,200,OK,Thread Group 1-49,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2625,0,0
+1702820156756,2702,https://www.amry.ru/stocks/,200,OK,Thread Group 1-5,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2425,0,0
+1702820157290,2173,https://www.amry.ru/stocks/,200,OK,Thread Group 1-56,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,1892,0,0
+1702820156799,2697,https://www.amry.ru/stocks/,200,OK,Thread Group 1-78,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2415,0,0
+1702820156279,3222,https://www.amry.ru/stocks/,200,OK,Thread Group 1-65,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2941,0,0
+1702820156829,2714,https://www.amry.ru/stocks/,200,OK,Thread Group 1-82,text,true,,156929,550,73,73,https://www.amry.ru/stocks/,2427,0,0
+1702820156824,2731,https://www.amry.ru/stocks/,200,OK,Thread Group 1-63,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2447,0,0
+1702820156948,2613,https://www.amry.ru/stocks/,200,OK,Thread Group 1-96,text,true,,156929,550,73,73,https://www.amry.ru/stocks/,2334,0,0
+1702820157301,2321,https://www.amry.ru/stocks/,200,OK,Thread Group 1-95,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2037,0,0
+1702820157000,2652,https://www.amry.ru/stocks/,200,OK,Thread Group 1-53,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2375,0,0
+1702820157427,2251,https://www.amry.ru/stocks/,200,OK,Thread Group 1-94,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,1973,0,0
+1702820157456,2252,https://www.amry.ru/stocks/,200,OK,Thread Group 1-87,text,true,,156929,550,73,73,https://www.amry.ru/stocks/,1971,0,0
+1702820157696,2015,https://www.amry.ru/stocks/,200,OK,Thread Group 1-19,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,1737,0,0
+1702820157633,2101,https://www.amry.ru/stocks/,200,OK,Thread Group 1-81,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,1823,0,0
+1702820157824,1932,https://www.amry.ru/stocks/,200,OK,Thread Group 1-73,text,true,,156936,550,73,73,https://www.amry.ru/stocks/,1655,0,0
+1702820157281,2505,https://www.amry.ru/stocks/,200,OK,Thread Group 1-61,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,2227,0,0
+1702820157791,2052,https://www.amry.ru/stocks/,200,OK,Thread Group 1-72,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,1774,0,0
+1702820157986,1897,https://www.amry.ru/stocks/,200,OK,Thread Group 1-33,text,true,,156929,550,73,73,https://www.amry.ru/stocks/,1620,0,0
+1702820158172,1729,https://www.amry.ru/stocks/,200,OK,Thread Group 1-42,text,true,,156919,550,73,73,https://www.amry.ru/stocks/,1451,0,0
+1702820156585,3874,https://www.amry.ru/accum/,200,OK,Thread Group 1-9,text,true,,636200,549,73,73,https://www.amry.ru/accum/,3168,0,0
+1702820144743,8689,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-9,,false,,780793,2108,73,73,null,7766,7030,1417
+1702820158927,2573,https://www.amry.ru/accum/,200,OK,Thread Group 1-66,text,true,,636203,549,72,72,https://www.amry.ru/accum/,1731,0,0
+1702820145312,9161,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-66,,false,,935402,2160,72,72,null,7805,7028,830
+1702820159030,2513,https://www.amry.ru/accum/,200,OK,Thread Group 1-89,text,true,,636172,549,71,71,https://www.amry.ru/accum/,1810,0,0
+1702820145542,8977,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-89,,false,,935351,2160,71,71,null,7780,7025,599
+1702820159124,2536,https://www.amry.ru/accum/,200,OK,Thread Group 1-14,text,true,,636172,549,70,70,https://www.amry.ru/accum/,1823,0,0
+1702820144795,9841,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-14,,false,,935357,2160,70,70,null,8629,7025,1347
+1702820159943,1747,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-85,text,false,,16233,549,69,69,https://www.amry.ru/accum/,1747,0,0
+1702820145503,9158,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-85,,false,,316962,2108,69,69,null,8637,7029,657
+1702820159130,2596,https://www.amry.ru/accum/,200,OK,Thread Group 1-62,text,true,,636172,549,68,68,https://www.amry.ru/accum/,1885,0,0
+1702820145273,9430,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-62,,false,,935341,2160,68,68,null,8218,7024,862
+1702820160115,1666,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-6,text,false,,16233,549,67,67,https://www.amry.ru/accum/,1666,0,0
+1702820144715,10021,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-6,,false,,315402,2160,67,67,null,9517,7045,1405
+1702820160233,1678,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-84,text,false,,16233,549,66,66,https://www.amry.ru/accum/,1678,0,0
+1702820145493,9391,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-84,,false,,316952,2108,66,66,null,8895,7027,670
+1702820160258,1827,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-22,text,false,,16233,549,65,65,https://www.amry.ru/accum/,1827,0,0
+1702820144873,10186,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-22,,false,,315402,2160,65,65,null,9691,7026,1269
+1702820159566,2917,https://www.amry.ru/accum/,200,OK,Thread Group 1-3,text,true,,636172,549,64,64,https://www.amry.ru/accum/,2212,0,0
+1702820144686,10725,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-3,,false,,935369,2160,64,64,null,9523,7072,1406
+1702820160701,1882,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-90,text,false,,16233,549,63,63,https://www.amry.ru/accum/,1882,0,0
+1702820145552,10001,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-90,,false,,316962,2108,63,63,null,9506,7030,607
+1702820159557,3045,https://www.amry.ru/accum/,200,OK,Thread Group 1-21,text,true,,636172,549,62,62,https://www.amry.ru/accum/,2338,0,0
+1702820144862,10711,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-21,,false,,936910,2108,62,62,null,9508,7030,1298
+1702820160666,1938,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-79,text,false,,16233,549,61,61,https://www.amry.ru/accum/,1938,0,0
+1702820145443,10131,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-79,,false,,316974,2108,61,61,null,9637,7030,717
+1702820160451,2207,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-55,text,false,,16233,549,60,60,https://www.amry.ru/accum/,2207,0,0
+1702820145202,10426,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-55,,false,,316952,2108,60,60,null,9925,7030,948
+1702820162597,72,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-94,text,false,,793,549,59,59,https://www.amry.ru/accum/,72,0,0
+1702820145592,10052,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-94,,false,,442119,2160,59,59,null,9341,7026,556
+1702820162627,71,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-87,text,false,,793,549,58,58,https://www.amry.ru/accum/,71,0,0
+1702820145524,10149,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-87,,false,,442122,2160,58,58,null,9435,7025,621
+1702820162630,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-19,text,false,,793,549,57,57,https://www.amry.ru/accum/,70,0,0
+1702820144842,10835,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-19,,false,,442130,2160,57,57,null,10121,7023,1293
+1702820162653,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-81,text,false,,793,549,56,56,https://www.amry.ru/accum/,70,0,0
+1702820145462,10238,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-81,,false,,442112,2160,56,56,null,9528,7023,677
+1702820162677,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-73,text,false,,793,549,55,55,https://www.amry.ru/accum/,70,0,0
+1702820145382,10339,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-73,,false,,442136,2160,55,55,null,9593,7026,767
+1702820162705,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-61,text,false,,793,549,54,54,https://www.amry.ru/accum/,70,0,0
+1702820145263,10488,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-61,,false,,442112,2160,54,54,null,9777,7024,873
+1702820162802,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-33,text,false,,793,549,53,53,https://www.amry.ru/accum/,70,0,0
+1702820144983,10863,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-33,,false,,442134,2160,53,53,null,10156,7027,1161
+1702820162820,70,https://www.amry.ru/accum/,503,Service Temporarily Unavailable,Thread Group 1-42,text,false,,793,549,52,52,https://www.amry.ru/accum/,70,0,0
+1702820145072,10793,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-42,,false,,442119,2160,52,52,null,10085,7025,1077
+1702820159744,3350,https://www.amry.ru/accum/,200,OK,Thread Group 1-76,text,true,,636172,549,51,51,https://www.amry.ru/accum/,2642,0,0
+1702820145413,10652,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-76,,false,,936933,2108,51,51,null,9450,7029,748
+1702820159885,3560,https://www.amry.ru/accum/,200,OK,Thread Group 1-31,text,true,,636224,549,50,50,https://www.amry.ru/accum/,2852,0,0
+1702820144962,11454,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-31,,false,,936953,2108,50,50,null,10247,7029,1196
+1702820159809,3743,https://www.amry.ru/accum/,200,OK,Thread Group 1-80,text,true,,636172,549,49,49,https://www.amry.ru/accum/,2559,0,0
+1702820145453,11068,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-80,,false,,936891,2108,49,49,null,9378,7031,706
+1702820159537,4319,https://www.amry.ru/accum/,200,OK,Thread Group 1-77,text,true,,636204,549,48,48,https://www.amry.ru/accum/,2748,0,0
+1702820145422,11409,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-77,,false,,935386,2160,48,48,null,9338,7026,719
+1702820160019,3852,https://www.amry.ru/accum/,200,OK,Thread Group 1-44,text,true,,636212,549,47,47,https://www.amry.ru/accum/,3145,0,0
+1702820145093,11750,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-44,,false,,935412,2160,47,47,null,10541,7028,1048
+1702820159933,3968,https://www.amry.ru/accum/,200,OK,Thread Group 1-13,text,true,,636172,549,46,46,https://www.amry.ru/accum/,3262,0,0
+1702820144783,12094,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-13,,false,,935351,2160,46,46,null,10894,7024,1358
+1702820160034,4032,https://www.amry.ru/accum/,200,OK,Thread Group 1-17,text,true,,636172,549,45,45,https://www.amry.ru/accum/,3325,0,0
+1702820144823,12218,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-17,,false,,935357,2160,45,45,null,11018,7025,1320
+1702820160346,3819,https://www.amry.ru/accum/,200,OK,Thread Group 1-64,text,true,,636172,549,44,44,https://www.amry.ru/accum/,3113,0,0
+1702820145293,11842,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-64,,false,,936891,2108,44,44,null,10643,7030,868
+1702820160273,3969,https://www.amry.ru/accum/,200,OK,Thread Group 1-74,text,true,,636172,549,43,43,https://www.amry.ru/accum/,3261,0,0
+1702820145392,11820,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-74,,false,,936891,2108,43,43,null,10612,7030,767
+1702820160109,4225,https://www.amry.ru/accum/,200,OK,Thread Group 1-11,text,true,,636172,549,42,42,https://www.amry.ru/accum/,3517,0,0
+1702820144764,12539,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-11,,false,,936891,2108,42,42,null,11330,7031,1387
+1702820160010,4334,https://www.amry.ru/accum/,200,OK,Thread Group 1-23,text,true,,636172,549,41,41,https://www.amry.ru/accum/,3618,0,0
+1702820144883,12431,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-23,,false,,936891,2108,41,41,null,11217,7030,1276
+1702820160373,4118,https://www.amry.ru/accum/,200,OK,Thread Group 1-34,text,true,,636172,549,40,40,https://www.amry.ru/accum/,3413,0,0
+1702820144992,12471,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-34,,false,,936921,2108,40,40,null,11268,7028,1169
+1702820161645,2928,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-75,text,false,,16233,549,39,39,https://www.amry.ru/accum/,2928,0,0
+1702820145402,12146,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-75,,false,,457562,2160,39,39,null,11431,7025,711
+1702820161571,3018,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-8,text,false,,16226,549,38,38,https://www.amry.ru/accum/,3018,0,0
+1702820144734,12829,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-8,,false,,457599,2160,38,38,null,12113,7026,1378
+1702820161986,2802,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-71,text,false,,16233,549,37,37,https://www.amry.ru/accum/,2801,0,0
+1702820145362,12402,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-71,,false,,457583,2160,37,37,null,11686,7024,751
+1702820162104,2706,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-29,text,false,,16233,549,36,36,https://www.amry.ru/accum/,2706,0,0
+1702820144943,12841,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-29,,false,,316952,2108,36,36,null,12349,7027,1223
+1702820161853,2968,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-97,text,false,,16233,549,35,35,https://www.amry.ru/accum/,2968,0,0
+1702820145622,12175,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-97,,false,,457552,2160,35,35,null,11459,7024,509
+1702820161964,2862,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-4,text,false,,16233,549,34,34,https://www.amry.ru/accum/,2862,0,0
+1702820144696,13064,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-4,,false,,316952,2108,34,34,null,12565,7065,1430
+1702820160431,4397,https://www.amry.ru/accum/,200,OK,Thread Group 1-59,text,true,,636172,549,33,33,https://www.amry.ru/accum/,3685,0,0
+1702820145243,12555,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-59,,false,,936891,2108,33,33,null,11343,7031,914
+1702820159666,5268,https://www.amry.ru/accum/,200,OK,Thread Group 1-7,text,true,,636172,549,32,32,https://www.amry.ru/accum/,2914,0,0
+1702820144724,13175,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-7,,false,,935364,2160,32,32,null,10320,7037,1406
+1702820160353,4643,https://www.amry.ru/accum/,200,OK,Thread Group 1-28,text,true,,636172,549,31,31,https://www.amry.ru/accum/,3934,0,0
+1702820144932,13032,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-28,,false,,936901,2108,31,31,null,11822,7032,1219
+1702820162142,2893,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-51,text,false,,16233,549,30,30,https://www.amry.ru/accum/,2893,0,0
+1702820145163,12847,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-51,,false,,457552,2160,30,30,null,12127,7026,949
+1702820162118,2932,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-57,text,false,,16233,549,29,29,https://www.amry.ru/accum/,2932,0,0
+1702820145223,12802,Test,,"Number of samples in transaction : 4, number of failing samples : 2",Thread Group 1-57,,false,,316952,2108,29,29,null,12305,7025,949
+1702820162299,2751,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-36,text,false,,16233,549,28,28,https://www.amry.ru/accum/,2751,0,0
+1702820145012,13011,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-36,,false,,457552,2160,28,28,null,12302,7027,1120
+1702820162420,2632,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-65,text,false,,16233,549,27,27,https://www.amry.ru/accum/,2632,0,0
+1702820145303,12724,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-65,,false,,457552,2160,27,27,null,12008,7025,810
+1702820162358,2695,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-49,text,false,,16233,549,26,26,https://www.amry.ru/accum/,2695,0,0
+1702820145143,12883,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-49,,false,,457589,2160,26,26,null,12171,7027,990
+1702820162100,2955,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-10,text,false,,16233,549,25,25,https://www.amry.ru/accum/,2955,0,0
+1702820144753,13277,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-10,,false,,457552,2160,25,25,null,12546,7025,1360
+1702820162234,2823,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-37,text,false,,16233,549,24,24,https://www.amry.ru/accum/,2823,0,0
+1702820145023,13011,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-37,,false,,457558,2160,24,24,null,12288,7023,1112
+1702820162416,2659,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-78,text,false,,16233,549,23,23,https://www.amry.ru/accum/,2659,0,0
+1702820145433,12617,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-78,,false,,457583,2160,23,23,null,11899,7025,715
+1702820160321,4757,https://www.amry.ru/accum/,200,OK,Thread Group 1-16,text,true,,636284,549,22,22,https://www.amry.ru/accum/,4050,0,0
+1702820144813,13238,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-16,,false,,935453,2160,22,22,null,12033,7027,1327
+1702820162092,2995,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-24,text,false,,16233,549,21,21,https://www.amry.ru/accum/,2995,0,0
+1702820144892,13170,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-24,,false,,457552,2160,21,21,null,12455,7025,1221
+1702820162475,2619,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-63,text,false,,16233,549,20,20,https://www.amry.ru/accum/,2619,0,0
+1702820145282,12782,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-63,,false,,457552,2160,20,20,null,12064,7030,832
+1702820161184,4055,https://www.amry.ru/accum/,200,OK,Thread Group 1-52,text,true,,636172,549,19,19,https://www.amry.ru/accum/,3347,0,0
+1702820145173,13039,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-52,,true,,1077498,2160,19,19,null,11624,7027,940
+1702820162293,2960,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-54,text,false,,16233,549,18,18,https://www.amry.ru/accum/,2960,0,0
+1702820145192,13036,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-54,,false,,457569,2160,18,18,null,12328,7026,952
+1702820161075,4180,https://www.amry.ru/accum/,200,OK,Thread Group 1-47,text,true,,636172,549,17,17,https://www.amry.ru/accum/,3467,0,0
+1702820145123,13107,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-47,,true,,1077507,2160,17,17,null,11681,7025,1009
+1702820162479,2803,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-96,text,false,,16226,549,16,16,https://www.amry.ru/accum/,2803,0,0
+1702820145613,12645,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-96,,false,,457567,2160,16,16,null,11936,7024,532
+1702820162262,3028,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-40,text,false,,16233,549,15,15,https://www.amry.ru/accum/,3028,0,0
+1702820145053,13211,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-40,,false,,457552,2160,15,15,null,12499,7026,1086
+1702820162542,2752,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-95,text,false,,16233,549,14,14,https://www.amry.ru/accum/,2752,0,0
+1702820145603,12666,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-95,,false,,457552,2160,14,14,null,11945,7026,543
+1702820162572,2726,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-53,text,false,,16233,549,13,13,https://www.amry.ru/accum/,2726,0,0
+1702820145183,13090,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-53,,false,,457552,2160,13,13,null,12382,7025,950
+1702820162382,2922,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-56,text,false,,16233,549,12,12,https://www.amry.ru/accum/,2922,0,0
+1702820145213,13067,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-56,,false,,457552,2160,12,12,null,12352,7024,920
+1702820161024,4310,https://www.amry.ru/accum/,200,OK,Thread Group 1-18,text,true,,636172,549,11,11,https://www.amry.ru/accum/,3590,0,0
+1702820144833,13472,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-18,,false,,936903,2108,11,11,null,12259,7029,1327
+1702820161359,3989,https://www.amry.ru/accum/,200,OK,Thread Group 1-38,text,true,,636172,549,10,10,https://www.amry.ru/accum/,3281,0,0
+1702820145033,13289,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-38,,true,,1077491,2160,10,10,null,11879,7026,1079
+1702820162214,3161,https://www.amry.ru/accum/,529,Internal Server Error,Thread Group 1-30,text,false,,16233,549,9,9,https://www.amry.ru/accum/,3161,0,0
+1702820144953,13388,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-30,,false,,457564,2160,9,9,null,12681,7034,1180
+1702820161522,4358,https://www.amry.ru/accum/,200,OK,Thread Group 1-12,text,true,,636172,549,8,8,https://www.amry.ru/accum/,3643,0,0
+1702820144773,14077,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-12,,false,,936903,2108,8,8,null,12866,7030,1386
+1702820161086,4801,https://www.amry.ru/accum/,200,OK,Thread Group 1-25,text,true,,636172,549,7,7,https://www.amry.ru/accum/,4090,0,0
+1702820144902,13959,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-25,,true,,1077509,2160,7,7,null,12537,7026,1211
+1702820161779,4446,https://www.amry.ru/accum/,200,OK,Thread Group 1-86,text,true,,636172,549,6,6,https://www.amry.ru/accum/,3737,0,0
+1702820145513,13687,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-86,,true,,1077491,2160,6,6,null,12253,7026,600
+1702820161976,4309,https://www.amry.ru/accum/,200,OK,Thread Group 1-48,text,true,,636204,549,5,5,https://www.amry.ru/accum/,3603,0,0
+1702820145132,14128,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-48,,true,,1077541,2160,5,5,null,12706,7025,999
+1702820161869,4445,https://www.amry.ru/accum/,200,OK,Thread Group 1-46,text,true,,636172,549,4,4,https://www.amry.ru/accum/,3738,0,0
+1702820145113,14172,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-46,,false,,936891,2108,4,4,null,12972,7029,1047
+1702820162377,4014,https://www.amry.ru/accum/,200,OK,Thread Group 1-5,text,true,,636172,549,3,3,https://www.amry.ru/accum/,3308,0,0
+1702820144705,14630,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,1077491,2160,3,3,null,13209,7055,1377
+1702820162462,3935,https://www.amry.ru/accum/,200,OK,Thread Group 1-82,text,true,,636172,549,2,2,https://www.amry.ru/accum/,3227,0,0
+1702820145474,13899,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-82,,true,,1077550,2160,2,2,null,12471,7024,672
+1702820162761,3658,https://www.amry.ru/accum/,200,OK,Thread Group 1-72,text,true,,636172,549,1,1,https://www.amry.ru/accum/,2951,0,0
+1702820145373,14023,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-72,,true,,1077491,2160,1,1,null,12593,7023,759
