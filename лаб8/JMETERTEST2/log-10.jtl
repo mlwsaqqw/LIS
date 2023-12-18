@@ -1,51 +1,221 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1702820115377,1482,https://www.amry.ru/about/company/,200,OK,Thread Group 1-8,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1275,0,614
-1702820114980,1897,https://www.amry.ru/about/company/,200,OK,Thread Group 1-4,text,true,,141469,505,10,10,https://www.amry.ru/about/company/,1683,0,1012
-1702820114882,1999,https://www.amry.ru/about/company/,200,OK,Thread Group 1-3,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1781,0,1110
-1702820114783,2103,https://www.amry.ru/about/company/,200,OK,Thread Group 1-2,text,true,,141469,505,10,10,https://www.amry.ru/about/company/,1887,0,1209
-1702820114740,2150,https://www.amry.ru/about/company/,200,OK,Thread Group 1-1,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1933,0,1250
-1702820115080,1816,https://www.amry.ru/about/company/,200,OK,Thread Group 1-5,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1596,0,911
-1702820115477,1424,https://www.amry.ru/about/company/,200,OK,Thread Group 1-9,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1208,0,515
-1702820115577,1329,https://www.amry.ru/about/company/,200,OK,Thread Group 1-10,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1110,0,415
-1702820115279,1631,https://www.amry.ru/about/company/,200,OK,Thread Group 1-7,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1415,0,713
-1702820115180,1735,https://www.amry.ru/about/company/,200,OK,Thread Group 1-6,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1518,0,812
-1702820118739,766,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-8,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,553,0,0
-1702820118752,764,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-4,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,547,0,0
-1702820118757,879,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-3,text,true,,142961,556,10,10,https://www.amry.ru/to_suppliers/,661,0,0
-1702820118765,952,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-1,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,729,0,0
-1702820118770,1016,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-5,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,800,0,0
-1702820118775,1100,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-9,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,884,0,0
-1702820118760,1175,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-2,text,true,,142961,556,10,10,https://www.amry.ru/to_suppliers/,958,0,0
-1702820118785,1239,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-7,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,1020,0,0
-1702820118780,1246,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-10,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,1029,0,0
-1702820118789,1381,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-6,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,1164,0,0
-1702820121737,874,https://www.amry.ru/stocks/,200,OK,Thread Group 1-8,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,597,0,0
-1702820121748,868,https://www.amry.ru/stocks/,200,OK,Thread Group 1-4,text,true,,156929,550,10,10,https://www.amry.ru/stocks/,589,0,0
-1702820121867,920,https://www.amry.ru/stocks/,200,OK,Thread Group 1-3,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,642,0,0
-1702820121950,858,https://www.amry.ru/stocks/,200,OK,Thread Group 1-1,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,581,0,0
-1702820122018,900,https://www.amry.ru/stocks/,200,OK,Thread Group 1-5,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,623,0,0
-1702820122108,845,https://www.amry.ru/stocks/,200,OK,Thread Group 1-9,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,567,0,0
-1702820122257,805,https://www.amry.ru/stocks/,200,OK,Thread Group 1-7,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,527,0,0
-1702820122258,813,https://www.amry.ru/stocks/,200,OK,Thread Group 1-10,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,536,0,0
-1702820122166,927,https://www.amry.ru/stocks/,200,OK,Thread Group 1-2,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,648,0,0
-1702820122402,779,https://www.amry.ru/stocks/,200,OK,Thread Group 1-6,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,501,0,0
-1702820125530,1548,https://www.amry.ru/accum/,200,OK,Thread Group 1-8,text,true,,636172,549,10,10,https://www.amry.ru/accum/,831,0,0
-1702820115377,4670,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,1077491,2160,10,10,null,3256,7031,614
-1702820125534,1672,https://www.amry.ru/accum/,200,OK,Thread Group 1-4,text,true,,636172,549,9,9,https://www.amry.ru/accum/,961,0,0
-1702820114980,5201,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,1077513,2160,9,9,null,3780,7026,1012
-1702820125705,1656,https://www.amry.ru/accum/,200,OK,Thread Group 1-3,text,true,,636172,549,8,8,https://www.amry.ru/accum/,943,0,0
-1702820114881,5454,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,1077509,2160,8,8,null,4027,7027,1110
-1702820125727,1686,https://www.amry.ru/accum/,200,OK,Thread Group 1-1,text,true,,636172,549,7,7,https://www.amry.ru/accum/,975,0,0
-1702820114687,5646,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,1077491,2160,7,7,null,4218,7079,1250
-1702820125872,1663,https://www.amry.ru/accum/,200,OK,Thread Group 1-9,text,true,,636172,549,6,6,https://www.amry.ru/accum/,953,0,0
-1702820115477,5032,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,,true,,1077491,2160,6,6,null,3612,7027,515
-1702820125837,1709,https://www.amry.ru/accum/,200,OK,Thread Group 1-5,text,true,,636172,549,5,5,https://www.amry.ru/accum/,998,0,0
-1702820115079,5441,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,1077491,2160,5,5,null,4017,7027,911
-1702820125990,1638,https://www.amry.ru/accum/,200,OK,Thread Group 1-10,text,true,,636172,549,4,4,https://www.amry.ru/accum/,929,0,0
-1702820115577,5026,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,1077491,2160,4,4,null,3604,7025,415
-1702820125981,1666,https://www.amry.ru/accum/,200,OK,Thread Group 1-7,text,true,,636172,549,3,3,https://www.amry.ru/accum/,957,0,0
-1702820115278,5341,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,1077491,2160,3,3,null,3919,7029,713
-1702820126012,1654,https://www.amry.ru/accum/,200,OK,Thread Group 1-2,text,true,,636172,549,2,2,https://www.amry.ru/accum/,948,0,0
-1702820114782,5859,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,1077521,2160,2,2,null,4441,7026,1209
-1702820126100,1718,https://www.amry.ru/accum/,200,OK,Thread Group 1-6,text,true,,636172,549,1,1,https://www.amry.ru/accum/,1008,0,0
-1702820115179,5613,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,1077491,2160,1,1,null,4191,7026,812
+1702911357442,2258,https://www.amry.ru/about/company/,200,OK,Thread Group 1-2,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,2043,0,1431
+1702911357741,1990,https://www.amry.ru/about/company/,200,OK,Thread Group 1-5,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1771,0,1132
+1702911358140,1618,https://www.amry.ru/about/company/,200,OK,Thread Group 1-9,text,true,,141469,505,10,10,https://www.amry.ru/about/company/,1402,0,734
+1702911358242,1520,https://www.amry.ru/about/company/,200,OK,Thread Group 1-10,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1305,0,631
+1702911357405,2366,https://www.amry.ru/about/company/,200,OK,Thread Group 1-1,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,2148,0,1469
+1702911357641,2141,https://www.amry.ru/about/company/,200,OK,Thread Group 1-4,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1913,0,1232
+1702911357939,1847,https://www.amry.ru/about/company/,200,OK,Thread Group 1-7,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1626,0,942
+1702911358039,1751,https://www.amry.ru/about/company/,200,OK,Thread Group 1-8,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1527,0,842
+1702911357843,1950,https://www.amry.ru/about/company/,200,OK,Thread Group 1-6,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,1725,0,1030
+1702911357542,2254,https://www.amry.ru/about/company/,200,OK,Thread Group 1-3,text,true,,141457,505,10,10,https://www.amry.ru/about/company/,2029,0,1331
+1702911361211,748,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-2,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,532,0,0
+1702911361237,761,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-5,text,true,,142961,556,10,10,https://www.amry.ru/to_suppliers/,546,0,0
+1702911361277,810,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-1,text,true,,142961,556,10,10,https://www.amry.ru/to_suppliers/,594,0,0
+1702911361264,839,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-9,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,623,0,0
+1702911361292,832,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-7,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,615,0,0
+1702911361296,832,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-8,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,612,0,0
+1702911361288,873,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-4,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,656,0,0
+1702911361268,936,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-10,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,714,0,0
+1702911361299,1117,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-6,text,true,,142961,556,10,10,https://www.amry.ru/to_suppliers/,901,0,0
+1702911361302,1189,https://www.amry.ru/to_suppliers/,200,OK,Thread Group 1-3,text,true,,142943,556,10,10,https://www.amry.ru/to_suppliers/,972,0,0
+1702911363036,816,https://www.amry.ru/stocks/,200,OK,Thread Group 1-2,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,598,0,0
+1702911363073,808,https://www.amry.ru/stocks/,200,OK,Thread Group 1-5,text,true,,156929,550,10,10,https://www.amry.ru/stocks/,589,0,0
+1702911363161,835,https://www.amry.ru/stocks/,200,OK,Thread Group 1-1,text,true,,156930,550,10,10,https://www.amry.ru/stocks/,614,0,0
+1702911363198,891,https://www.amry.ru/stocks/,200,OK,Thread Group 1-7,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,672,0,0
+1702911363178,917,https://www.amry.ru/stocks/,200,OK,Thread Group 1-9,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,698,0,0
+1702911363202,907,https://www.amry.ru/stocks/,200,OK,Thread Group 1-8,text,true,,156929,550,10,10,https://www.amry.ru/stocks/,686,0,0
+1702911363236,876,https://www.amry.ru/stocks/,200,OK,Thread Group 1-4,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,653,0,0
+1702911363279,860,https://www.amry.ru/stocks/,200,OK,Thread Group 1-10,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,640,0,0
+1702911363490,765,https://www.amry.ru/stocks/,200,OK,Thread Group 1-6,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,547,0,0
+1702911363566,748,https://www.amry.ru/stocks/,200,OK,Thread Group 1-3,text,true,,156919,550,10,10,https://www.amry.ru/stocks/,530,0,0
+1702911366830,1279,https://www.amry.ru/accum/,200,OK,Thread Group 1-2,text,true,,636172,549,10,10,https://www.amry.ru/accum/,842,0,0
+1702911366857,1304,https://www.amry.ru/accum/,200,OK,Thread Group 1-5,text,true,,636188,549,10,10,https://www.amry.ru/accum/,866,0,0
+1702911366972,1323,https://www.amry.ru/accum/,200,OK,Thread Group 1-1,text,true,,636172,549,10,10,https://www.amry.ru/accum/,878,0,0
+1702911367071,1422,https://www.amry.ru/accum/,200,OK,Thread Group 1-9,text,true,,636204,549,10,10,https://www.amry.ru/accum/,958,0,0
+1702911367085,1420,https://www.amry.ru/accum/,200,OK,Thread Group 1-8,text,true,,636172,549,10,10,https://www.amry.ru/accum/,964,0,0
+1702911367066,1453,https://www.amry.ru/accum/,200,OK,Thread Group 1-7,text,true,,636172,549,10,10,https://www.amry.ru/accum/,1015,0,0
+1702911367089,1459,https://www.amry.ru/accum/,200,OK,Thread Group 1-4,text,true,,636172,549,10,10,https://www.amry.ru/accum/,1021,0,0
+1702911367116,1712,https://www.amry.ru/accum/,200,OK,Thread Group 1-10,text,true,,636172,549,10,10,https://www.amry.ru/accum/,1261,0,0
+1702911367291,1726,https://www.amry.ru/accum/,200,OK,Thread Group 1-3,text,true,,636172,549,10,10,https://www.amry.ru/accum/,1288,0,0
+1702911367232,1797,https://www.amry.ru/accum/,200,OK,Thread Group 1-6,text,true,,636172,549,10,10,https://www.amry.ru/accum/,1348,0,0
+1702911371441,831,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-2,text,true,,154106,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,613,0,0
+1702911371493,835,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-5,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,618,0,0
+1702911371627,833,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-1,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,615,0,0
+1702911371825,841,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-9,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,623,0,0
+1702911371837,839,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-8,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,620,0,0
+1702911371852,840,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-7,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,622,0,0
+1702911371879,835,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-4,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,617,0,0
+1702911372160,788,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-10,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,570,0,0
+1702911372349,762,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-3,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,543,0,0
+1702911372360,771,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,200,OK,Thread Group 1-6,text,true,,154089,592,10,10,https://www.amry.ru/accum/akkumulyator-6st---132-apz-bars-silver.html,554,0,0
+1702911377928,885,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-2,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,664,0,0
+1702911377984,870,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-5,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,650,0,0
+1702911378116,900,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-1,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,680,0,0
+1702911378323,1005,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-9,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,781,0,0
+1702911378333,1059,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-8,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,838,0,0
+1702911378348,1055,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-7,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,835,0,0
+1702911378371,1039,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-4,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,818,0,0
+1702911378604,908,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-10,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,687,0,0
+1702911378765,891,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-3,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,670,0,0
+1702911378786,909,https://www.amry.ru/chemistry/,200,OK,Thread Group 1-6,text,true,,165151,553,10,10,https://www.amry.ru/chemistry/,690,0,0
+1702911380676,1253,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-2,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,974,0,0
+1702911380707,1279,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-5,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1001,0,0
+1702911380879,1267,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-1,text,true,,222578,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,987,0,0
+1702911381192,1347,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-9,text,true,,222596,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1069,0,0
+1702911381255,1451,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-7,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1166,0,0
+1702911381255,1518,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-8,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1231,0,0
+1702911381270,1525,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-4,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1238,0,0
+1702911381363,1488,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-10,text,true,,222581,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1202,0,0
+1702911381516,1482,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-3,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1199,0,0
+1702911381546,1462,https://www.amry.ru/chemistry/avtohimiya/,200,OK,Thread Group 1-6,text,true,,222574,564,10,10,https://www.amry.ru/chemistry/avtohimiya/,1179,0,0
+1702911385163,1000,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-2,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,784,0,0
+1702911385222,1005,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-5,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,786,0,0
+1702911385382,1091,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-1,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,871,0,0
+1702911385942,1159,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-7,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,940,0,0
+1702911385776,1369,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-9,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,1151,0,0
+1702911386010,1215,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-8,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,995,0,0
+1702911386031,1215,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-4,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,996,0,0
+1702911386088,1178,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-10,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,957,0,0
+1702911386244,1081,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-6,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,862,0,0
+1702911386233,1098,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,200,OK,Thread Group 1-3,text,true,,157079,615,10,10,https://www.amry.ru/chemistry/avtohimiya/ochistiteli-dvigatelya-narujnie-hi-gear-hg5377.html,879,0,0
+1702911410917,770,https://www.amry.ru/,200,OK,Thread Group 1-2,text,true,,181909,543,10,10,https://www.amry.ru/,547,0,0
+1702911410981,753,https://www.amry.ru/,200,OK,Thread Group 1-5,text,true,,181909,543,10,10,https://www.amry.ru/,531,0,0
+1702911411227,707,https://www.amry.ru/,200,OK,Thread Group 1-1,text,true,,181909,543,10,10,https://www.amry.ru/,474,0,0
+1702911411856,804,https://www.amry.ru/,200,OK,Thread Group 1-7,text,true,,181919,543,10,10,https://www.amry.ru/,580,0,0
+1702911411901,778,https://www.amry.ru/,200,OK,Thread Group 1-9,text,true,,181909,543,10,10,https://www.amry.ru/,552,0,0
+1702911411979,836,https://www.amry.ru/,200,OK,Thread Group 1-8,text,true,,181909,543,10,10,https://www.amry.ru/,612,0,0
+1702911412020,848,https://www.amry.ru/,200,OK,Thread Group 1-10,text,true,,181919,543,10,10,https://www.amry.ru/,625,0,0
+1702911412000,876,https://www.amry.ru/,200,OK,Thread Group 1-4,text,true,,181919,543,10,10,https://www.amry.ru/,652,0,0
+1702911412079,895,https://www.amry.ru/,200,OK,Thread Group 1-6,text,true,,181909,543,10,10,https://www.amry.ru/,672,0,0
+1702911412085,902,https://www.amry.ru/,200,OK,Thread Group 1-3,text,true,,181909,543,10,10,https://www.amry.ru/,678,0,0
+1702911419770,899,https://www.amry.ru/,200,OK,Thread Group 1-2,text,true,,181909,642,10,10,https://www.amry.ru/,675,0,216
+1702911419817,943,https://www.amry.ru/,200,OK,Thread Group 1-5,text,true,,181909,642,10,10,https://www.amry.ru/,719,0,215
+1702911420017,981,https://www.amry.ru/,200,OK,Thread Group 1-1,text,true,,181909,642,10,10,https://www.amry.ru/,758,0,215
+1702911420743,933,https://www.amry.ru/,200,OK,Thread Group 1-7,text,true,,181909,642,10,10,https://www.amry.ru/,710,0,216
+1702911420761,939,https://www.amry.ru/,200,OK,Thread Group 1-9,text,true,,181909,642,10,10,https://www.amry.ru/,715,0,231
+1702911420899,956,https://www.amry.ru/,200,OK,Thread Group 1-8,text,true,,181909,642,10,10,https://www.amry.ru/,733,0,215
+1702911420959,1002,https://www.amry.ru/,200,OK,Thread Group 1-4,text,true,,181909,642,10,10,https://www.amry.ru/,778,0,215
+1702911420950,1027,https://www.amry.ru/,200,OK,Thread Group 1-10,text,true,,181909,642,10,10,https://www.amry.ru/,802,0,216
+1702911421057,999,https://www.amry.ru/,200,OK,Thread Group 1-6,text,true,,181909,642,10,10,https://www.amry.ru/,769,0,216
+1702911421069,1034,https://www.amry.ru/,200,OK,Thread Group 1-3,text,true,,181909,642,10,10,https://www.amry.ru/,796,0,217
+1702911427760,348,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-2,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911427851,374,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-5,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911428089,334,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-1,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911428767,415,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-7,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911428791,435,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-9,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911428945,405,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-8,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911429068,408,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-10,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911429051,439,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-4,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911429147,403,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-6,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911429193,403,https://www.amry.ru/chemistry/,304,Not modified,Thread Group 1-3,,true,,574,652,10,10,https://www.amry.ru/chemistry/,0,0,0
+1702911430017,1237,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-2,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,944,0,0
+1702911430133,1203,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-5,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,913,0,0
+1702911430332,1243,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-1,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,954,0,0
+1702911431090,1306,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-7,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,1015,0,0
+1702911431135,1296,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-9,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,1004,0,0
+1702911431260,1291,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-8,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,994,0,0
+1702911431385,1331,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-10,text,true,,277465,563,10,10,https://www.amry.ru/chemistry/antifrizi/,1043,0,0
+1702911431399,1359,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-4,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,1068,0,0
+1702911431459,1309,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-6,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,1018,0,0
+1702911431504,1346,https://www.amry.ru/chemistry/antifrizi/,200,OK,Thread Group 1-3,text,true,,277430,563,10,10,https://www.amry.ru/chemistry/antifrizi/,1048,0,0
+1702911445863,903,https://www.amry.ru/tools/,200,OK,Thread Group 1-2,text,true,,193603,549,10,10,https://www.amry.ru/tools/,680,0,0
+1702911445944,879,https://www.amry.ru/tools/,200,OK,Thread Group 1-5,text,true,,193603,549,10,10,https://www.amry.ru/tools/,654,0,0
+1702911446184,892,https://www.amry.ru/tools/,200,OK,Thread Group 1-1,text,true,,193603,549,10,10,https://www.amry.ru/tools/,666,0,0
+1702911447004,940,https://www.amry.ru/tools/,200,OK,Thread Group 1-7,text,true,,193603,549,10,10,https://www.amry.ru/tools/,714,0,0
+1702911447040,1030,https://www.amry.ru/tools/,200,OK,Thread Group 1-9,text,true,,193603,549,10,10,https://www.amry.ru/tools/,804,0,0
+1702911447161,1034,https://www.amry.ru/tools/,200,OK,Thread Group 1-8,text,true,,193603,549,10,10,https://www.amry.ru/tools/,810,0,0
+1702911447325,1135,https://www.amry.ru/tools/,200,OK,Thread Group 1-10,text,true,,193603,549,10,10,https://www.amry.ru/tools/,909,0,0
+1702911447367,1101,https://www.amry.ru/tools/,200,OK,Thread Group 1-4,text,true,,193603,549,10,10,https://www.amry.ru/tools/,871,0,0
+1702911447377,1099,https://www.amry.ru/tools/,200,OK,Thread Group 1-6,text,true,,193603,549,10,10,https://www.amry.ru/tools/,873,0,0
+1702911447458,1117,https://www.amry.ru/tools/,200,OK,Thread Group 1-3,text,true,,193603,549,10,10,https://www.amry.ru/tools/,888,0,0
+1702911448732,1071,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-2,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,845,0,0
+1702911448790,1243,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-5,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1017,0,0
+1702911449043,1234,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-1,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1009,0,0
+1702911450036,1648,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-9,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1422,0,0
+1702911449911,1938,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-7,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1712,0,0
+1702911450435,1648,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-4,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1423,0,0
+1702911450426,1704,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-10,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1478,0,0
+1702911450161,1984,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-8,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1756,0,0
+1702911450442,1773,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-6,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1536,0,0
+1702911450541,1737,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,200,OK,Thread Group 1-3,text,true,,193478,585,10,10,https://www.amry.ru/tools/instrument-dlya-avtoelektroprovodki/,1506,0,0
+1702911462941,651,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-2,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,426,0,0
+1702911463171,698,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-5,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,473,0,0
+1702911463415,672,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-1,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,447,0,0
+1702911464822,628,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-9,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,403,0,0
+1702911464987,661,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-7,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,436,0,0
+1702911465221,735,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-4,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,510,0,0
+1702911465267,714,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-10,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,489,0,0
+1702911465282,732,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-8,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,507,0,0
+1702911465353,738,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-6,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,511,0,0
+1702911465415,691,https://www.amry.ru/lamps/scheme/,200,OK,Thread Group 1-3,text,true,,189889,556,10,10,https://www.amry.ru/lamps/scheme/,466,0,0
+1702911467544,765,https://www.amry.ru/accessories/,200,OK,Thread Group 1-2,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,547,0,0
+1702911467822,737,https://www.amry.ru/accessories/,200,OK,Thread Group 1-5,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,519,0,0
+1702911468040,754,https://www.amry.ru/accessories/,200,OK,Thread Group 1-1,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,537,0,0
+1702911469403,806,https://www.amry.ru/accessories/,200,OK,Thread Group 1-9,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,590,0,0
+1702911469601,778,https://www.amry.ru/accessories/,200,OK,Thread Group 1-7,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,560,0,0
+1702911469909,883,https://www.amry.ru/accessories/,200,OK,Thread Group 1-4,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,666,0,0
+1702911469934,865,https://www.amry.ru/accessories/,200,OK,Thread Group 1-10,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,648,0,0
+1702911469966,875,https://www.amry.ru/accessories/,200,OK,Thread Group 1-8,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,654,0,0
+1702911470043,872,https://www.amry.ru/accessories/,200,OK,Thread Group 1-6,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,643,0,0
+1702911470058,915,https://www.amry.ru/accessories/,200,OK,Thread Group 1-3,text,true,,151310,555,10,10,https://www.amry.ru/accessories/,697,0,0
+1702911470422,1170,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-2,text,true,,443609,565,10,10,https://www.amry.ru/accessories/bagajniki/,809,0,0
+1702911470672,1152,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-5,text,true,,443609,565,10,10,https://www.amry.ru/accessories/bagajniki/,789,0,0
+1702911470906,1141,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-1,text,true,,443610,565,10,10,https://www.amry.ru/accessories/bagajniki/,781,0,0
+1702911472321,1229,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-9,text,true,,443610,565,10,10,https://www.amry.ru/accessories/bagajniki/,868,0,0
+1702911472492,1253,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-7,text,true,,443610,565,10,10,https://www.amry.ru/accessories/bagajniki/,890,0,0
+1702911472905,1298,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-4,text,true,,443609,565,10,10,https://www.amry.ru/accessories/bagajniki/,921,0,0
+1702911472911,1311,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-10,text,true,,443633,565,10,10,https://www.amry.ru/accessories/bagajniki/,939,0,0
+1702911472954,1277,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-8,text,true,,443609,565,10,10,https://www.amry.ru/accessories/bagajniki/,914,0,0
+1702911473027,1286,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-6,text,true,,443610,565,10,10,https://www.amry.ru/accessories/bagajniki/,918,0,0
+1702911473085,1241,https://www.amry.ru/accessories/bagajniki/,200,OK,Thread Group 1-3,text,true,,443609,565,10,10,https://www.amry.ru/accessories/bagajniki/,875,0,0
+1702911479376,800,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-2,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,582,0,0
+1702911479606,775,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-5,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,557,0,0
+1702911479830,694,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-1,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,477,0,0
+1702911481332,893,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-9,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,678,0,215
+1702911481528,931,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-7,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,712,0,215
+1702911481986,1002,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-4,text,true,,154428,559,10,10,https://www.amry.ru/shop/basket.html,780,0,218
+1702911482005,1018,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-10,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,797,0,218
+1702911482014,1064,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-8,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,822,0,215
+1702911482109,1032,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-3,text,true,,154416,559,10,10,https://www.amry.ru/shop/basket.html,814,0,214
+1702911482095,1055,https://www.amry.ru/shop/basket.html,200,OK,Thread Group 1-6,text,true,,154428,559,10,10,https://www.amry.ru/shop/basket.html,817,0,218
+1702911484557,1427,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-2,text,true,,101649,1426,10,10,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,624,0,221
+1702911484557,624,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-2,text,true,,358,738,10,10,https://www.amry.ru/shop/make_order.html,624,0,221
+1702911485186,798,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-2,text,true,,101291,688,10,10,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,590,0,0
+1702911357442,19111,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-2,,true,,3846177,11679,10,10,null,13729,109431,1868
+1702911484759,1410,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-5,text,true,,101649,1426,9,9,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,661,0,216
+1702911484759,661,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-5,text,true,,358,738,9,9,https://www.amry.ru/shop/make_order.html,661,0,216
+1702911485421,748,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-5,text,true,,101291,688,9,9,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,540,0,0
+1702911357740,19019,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-5,,true,,3846204,11679,9,9,null,13660,109410,1563
+1702911484904,1409,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-1,text,true,,101649,1426,8,8,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,692,0,219
+1702911484904,692,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-1,text,true,,358,738,8,8,https://www.amry.ru/shop/make_order.html,692,0,219
+1702911485596,717,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-1,text,true,,101291,688,8,8,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,509,0,0
+1702911357349,19486,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-1,,true,,3846194,11679,8,8,null,14182,109478,1903
+1702911486604,1032,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-9,text,true,,101649,1426,7,7,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,394,0,0
+1702911486604,394,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-9,text,true,,358,738,7,7,https://www.amry.ru/shop/make_order.html,394,0,0
+1702911486998,638,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-9,text,true,,101291,688,7,7,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,429,0,0
+1702911358139,20072,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-9,,true,,3846227,11679,7,7,null,14735,109427,1180
+1702911486838,1045,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-7,text,true,,101649,1426,6,6,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,370,0,0
+1702911486838,370,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-7,text,true,,358,738,6,6,https://www.amry.ru/shop/make_order.html,370,0,0
+1702911487208,675,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-7,text,true,,101291,688,6,6,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,467,0,0
+1702911357938,20532,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-7,,true,,3846171,11679,6,6,null,15190,109413,1373
+1702911487367,1092,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-4,text,true,,101649,1426,5,5,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,397,0,0
+1702911487367,397,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-4,text,true,,358,738,5,5,https://www.amry.ru/shop/make_order.html,397,0,0
+1702911487764,695,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-4,text,true,,101291,688,5,5,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,487,0,0
+1702911357640,21398,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-4,,true,,3846182,11679,5,5,null,15978,109421,1665
+1702911487401,1084,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-10,text,true,,101649,1426,4,4,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,400,0,0
+1702911487401,400,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-10,text,true,,358,738,4,4,https://www.amry.ru/shop/make_order.html,400,0,0
+1702911487801,684,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-10,text,true,,101291,688,4,4,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,477,0,0
+1702911358239,20835,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-10,,true,,3846236,11679,4,4,null,15466,109412,1065
+1702911487457,1089,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-8,text,true,,101649,1426,3,3,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,407,0,0
+1702911487457,407,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-8,text,true,,358,738,3,3,https://www.amry.ru/shop/make_order.html,407,0,0
+1702911487864,682,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-8,text,true,,101291,688,3,3,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,475,0,0
+1702911358039,21084,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-8,,true,,3846170,11679,3,3,null,15682,109424,1272
+1702911487520,1111,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-3,text,true,,101649,1426,2,2,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,419,0,0
+1702911487520,419,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-3,text,true,,358,738,2,2,https://www.amry.ru/shop/make_order.html,419,0,0
+1702911487939,692,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-3,text,true,,101291,688,2,2,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,485,0,0
+1702911357541,21679,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-3,,true,,3846160,11679,2,2,null,16297,109411,1762
+1702911487528,1126,https://www.amry.ru/shop/make_order.html?func=upd,200,OK,Thread Group 1-6,text,true,,101649,1426,1,1,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,441,0,0
+1702911487528,441,https://www.amry.ru/shop/make_order.html?func=upd-0,302,Found,Thread Group 1-6,text,true,,358,738,1,1,https://www.amry.ru/shop/make_order.html,441,0,0
+1702911487969,685,https://www.amry.ru/shop/make_order.html?func=upd-1,200,OK,Thread Group 1-6,text,true,,101291,688,1,1,https://www.amry.ru/login/?return=%2Fshop%2Fmake_order.html,477,0,0
+1702911357841,21407,Test,200,"Number of samples in transaction : 19, number of failing samples : 0",Thread Group 1-6,,true,,3846191,11679,1,1,null,16004,109406,1464
